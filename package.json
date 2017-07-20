@@ -1,0 +1,17 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.0.1",
+    "aws-sdk": "^2.87.0",
+    "double-ended-queue": "^2.1.0-0",
+    "node-tweet-stream": "^2.0.1"
+  }
+}
